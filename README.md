@@ -8,4 +8,7 @@ It's mainly for understanding how these topics work, are interpreted and can be 
 ### Topics
 
 #### Graphs
-The directed-graphs.ipynb notebook contains experiments customizing graphs with NetworkX.  The images created from drawing the graphs and saving them can be found in the `images` folder.  There are various options for the appearances and additions of nodes and edges with this package and through Matplotlib's Pyplot library.
+The directed-graphs.ipynb notebook contains experiments customizing graphs with NetworkX.  The images created from drawing the graphs and saving them can be found in the (images) folder.  There are various options for the appearances and additions of nodes and edges with this package and through Matplotlib's Pyplot library.
+
+#### SQL
+The sql-tables.ipynb notebook contains code that creates a new SQL database and two tables within, stored as (authors_publications.sqlite)[https://github.com/bronwencc/ML_practice/blob/main/authors_publications.sqlite].
